@@ -11,9 +11,15 @@ I like:
 
 # Works with:
 ### Languages:
-| Python | C++ | Rust |
-|---------|-----|---------|
-|<img width="50" height="50" align="center" alt="image" src="https://github.com/user-attachments/assets/745cce68-1e19-4358-9221-c9606cd9767f" />|<img width="45" height="50" align="center" alt="image" src="https://github.com/user-attachments/assets/cd12041f-7605-4320-b004-c974a7a0a30f" />|<img width="50" height="50" align="center" alt="image" src="https://github.com/user-attachments/assets/7fe4eb0e-d088-4d93-aa24-2e3d0403a604" />|
+| Python | C++ |
+|--------|-----|
+|<img width="50" height="50" align="center" alt="image" src="assets\python.png" />|<img width="45" height="50" align="center" alt="image" src="assets\cpp.png" />|
+
+### Fraemworks:
+| Numpy | Pandas | Sklearn |
+|-------|--------|---------|
+||d|<img width="83" height="50" align="center" alt="image" src="assets/sklearn.png" />|
+
 
 
 <!--
