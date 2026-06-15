@@ -21,8 +21,6 @@ I like:
 |--------|--------|--------|---------|--------------|-|--------|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg" width="50" height="50" align="center" />|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" width="50" height="50" align="center" />|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/opencv/opencv-original.svg" width="50" height="50" align="center" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7C6ZdvAuHwplsqGXSPicvsK6Psek9Gic0pg&s" width="83" height="50" align="center" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZQBsnsCRAj4jeTlu3XafnEa9orV8_4h0UQ&s" width="83" height="50" align="center" />|⠀⠀⠀⠀|<img width="50" height="50" align="center" alt="image" src="https://github.com/user-attachments/assets/e9bc6ad2-b468-44ba-9406-514f96e64525" />|
 
-# 📫 How to reach me
-Telegram in bio
 
 <!-- ### Others:
 | pybind11 |
