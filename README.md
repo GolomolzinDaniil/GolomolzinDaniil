@@ -1,19 +1,33 @@
-# Hi there 👋
+<h1 align="center">Hi there
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
 # 👨‍💻 About me
 When I was in school, I really liked mathematics and geometry, but when I realized that mathematics is not limited to a piece of paper, I discovered Computer Science
 
-I'm a amateur programmer who is fascinated by the intersection of math, biology, and code.
+I'm an amateur programmer who is fascinated by the intersection of math, biology, and code.
 I like:
 * Learning and programming different languages
 * I enjoy designing model architectures, especially where they meet complex dynamics (snn)
-* 
+* Building small tools and experiments from scratch
 
-# Works with:
+# 🛠️ Works with:
 ### Languages:
-| Python | C++ |
-|--------|-----|
-|<img width="50" height="50" align="center" alt="image" src="assets\python.png" />|<img width="45" height="50" align="center" alt="image" src="assets\cpp.png" />|
+| Python | C++ |     | Rust |
+|--------|-----|-----|------|
+|<img width="50" height="50" align="center" alt="image" src="assets\python.png" />|<img width="45" height="50" align="center" alt="image" src="assets\cpp.png" />|⠀⠀⠀⠀|<img src="https://skillicons.dev/icons?i=rust" width="50" height="50" align="center" />|
+
+### Frameworks:
+| Numpy  | Pandas | OpenCV | PyTorch | scikit-learn | | Polars |
+|--------|--------|--------|---------|--------------|-|--------|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg" width="50" height="50" align="center" />|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" width="50" height="50" align="center" />|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/opencv/opencv-original.svg" width="50" height="50" align="center" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7C6ZdvAuHwplsqGXSPicvsK6Psek9Gic0pg&s" width="83" height="50" align="center" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZQBsnsCRAj4jeTlu3XafnEa9orV8_4h0UQ&s" width="83" height="50" align="center" />|⠀⠀⠀⠀|<img width="50" height="50" align="center" alt="image" src="https://github.com/user-attachments/assets/e9bc6ad2-b468-44ba-9406-514f96e64525" />|
+
+# 📫 How to reach me
+Telegram in bio
+
+<!-- ### Others:
+| pybind11 |
+|----------|
+|<img width="50" height="50" aling="center" alt="image" src="https://github.com/user-attachments/assets/d50c237e-70b9-4bd5-980a-a9bff9b9e7db"/>|
 
 
 <picture>
