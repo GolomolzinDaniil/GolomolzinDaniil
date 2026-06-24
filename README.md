@@ -12,9 +12,9 @@ I like:
 
 # 🛠️ Works with:
 ### Languages:
-| Python | C++ |     | Rust |
-|--------|-----|-----|------|
-|<img width="50" height="50" align="center" alt="image" src="assets\python.png" />|<img width="45" height="50" align="center" alt="image" src="assets\cpp.png" />|⠀⠀⠀⠀|<img src="https://skillicons.dev/icons?i=rust" width="50" height="50" align="center" />|
+| Python | C++ |
+|--------|-----|
+|<img width="50" height="50" align="center" alt="image" src="assets\python.png" />|<img width="45" height="50" align="center" alt="image" src="assets\cpp.png" />|
 
 ### Frameworks:
 | Numpy  | Pandas | OpenCV | PyTorch | scikit-learn | | Polars |
